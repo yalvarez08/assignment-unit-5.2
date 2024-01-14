@@ -3,11 +3,12 @@ header {
     background-color: midnightblue;
     text-align: center;
 }
-main {
+.main {
     background-color: lightgray;
-
+    padding: 1em;
 }
 body {
     background-image: url(file:///Users/usmcalvarez/Prime_Acadia/assignment-unit-5/assignment-unit-5.2/assignment/record.png);
     background-repeat: repeat;
+    margin: 0;
 }
