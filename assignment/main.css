@@ -1,4 +1,13 @@
 header {
     color:gainsboro;
     background-color: midnightblue;
+    text-align: center;
+}
+main {
+    background-color: lightgray;
+
+}
+body {
+    background-image: url(file:///Users/usmcalvarez/Prime_Acadia/assignment-unit-5/assignment-unit-5.2/assignment/record.png);
+    background-repeat: repeat;
 }
